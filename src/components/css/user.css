@@ -1,0 +1,42 @@
+.userSummary {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding-top: 10px;
+    transition: .5s;
+}
+
+.userAvatar {
+    width: 72px;
+    padding-top: 36px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.username {
+    padding-top: 24px;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    color: #67616D;
+}
+
+.userEmail {
+    padding-top: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    color: #8560A9;
+    font-size: 14px;
+}
+
+.userEmailIcon {
+    width: 16px
+}
+
+.userWholeNav {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}

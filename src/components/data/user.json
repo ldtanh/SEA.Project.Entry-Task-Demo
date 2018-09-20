@@ -1,0 +1,163 @@
+{
+  "userInfo": [
+    {
+      "username": "anhldt",
+      "name": "Lê Dương Tuấn Anh",
+      "email": "tuananh.le1@ved.com.vn",
+      "liked": [
+        {
+          "id": 0,
+          "username": "anhldt",
+          "channelName": "Channel 1",
+          "title": "Activity Title Name Make it Longer May Longer than One Line",
+          "time": {
+            "begin": 1536734908000,
+            "end": 1536821308000
+          },
+          "description": "[No longer than 300 chars] Vivamus sagittis, diam in lobortis, sapien arcu mattis erat, vel aliquet sem urna et risus. Ut feugiat sapien mi potenti...",
+          "isGoing": true,
+          "isLiked": true,
+          "listOfRefImg": [
+            "../resources/Imgs/gmap.png",
+            "../resources/Imgs/gmap.png"
+          ],
+          "placeName": "Marina Bay Sands",
+          "placeAddress": "10 Bayfront Ave, S018956",
+          "listComment": [
+            {
+              "username": "anhldt",
+              "commentedAgo": "45 minutes",
+              "comment": "Nullam ut tincidunt nunc. Petus lacus, commodo eget justo ut, rutrum varius nunc."
+            },
+            {
+              "username": "anhldt2",
+              "commentedAgo": "2 hours",
+              "comment": "ABCD EFgjjklajfe ."
+            },
+            {
+              "username": "anhldt3",
+              "commentedAgo": "3 hours",
+              "comment": "Petus lacus, commodo!!s nunc."
+            },
+            {
+              "username": "manht1",
+              "commentedAgo": "10 hours",
+              "comment": "IA__@NA"
+            },
+            {
+              "username": "manht2",
+              "commentedAgo": "1 days",
+              "comment": "ullam ut tinc."
+            }
+          ],
+          "going": [
+            "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt"
+          ],
+          "likes": ["anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt" ]
+        },
+        {
+          "id": 1,
+          "username": "manht",
+          "channelName": "Channel Long Name",
+          "title": "Activity Title Name Make it Longer May",
+          "time": {
+            "begin": 1534142908000,
+            "end": 1534661534000
+          },
+          "description": "[No longer than 300 chars] Vivamus sagittis, diam in lobortis, sapien arcu mattis erat, vel aliquet sem urna et risus. Ut feugiat sapien ...",
+          "isGoing": false,
+          "isLiked": true,
+          "listOfRefImg": [
+            "../resources/Imgs/gmap.png",
+            "../resources/Imgs/gmap.png"
+          ],
+          "placeName": "Marina Bay Sands",
+          "placeAddress": "10 Bayfront Ave, S018956",
+          "listComment": [
+            {
+              "username": "anhldt",
+              "commentedAgo": "45 minutes",
+              "comment": "Nullam ut tincidunt nunc. Petus lacus, commodo eget justo ut, rutrum varius nunc."
+            },
+            {
+              "username": "anhldt2",
+              "commentedAgo": "2 hours",
+              "comment": "ABCD EFgjjklajfe ."
+            },
+            {
+              "username": "anhldt3",
+              "commentedAgo": "3 hours",
+              "comment": "Petus lacus, commodo!!s nunc."
+            },
+            {
+              "username": "manht1",
+              "commentedAgo": "10 hours",
+              "comment": "IA__@NA"
+            },
+            {
+              "username": "manht2",
+              "commentedAgo": "1 days",
+              "comment": "ullam ut tinc."
+            }
+          ],
+          "going": [
+            "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt"
+          ],
+          "likes": ["anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt" ]
+        },
+        {
+          "id": 2,
+          "username": "manht2",
+          "channelName": "Channel 7",
+          "title": "Activity Title Name Make it Longer May",
+          "time": {
+            "begin": 1534142908000,
+            "end": 1534661534000
+          },
+          "description": "[No longer than 300 chars] Vivamus sagittis, diam in lobortis, sapien arcu mattis erat, vel aliquet sem urna et risus. Ut feugiat sapien ...",
+          "isGoing": true,
+          "isLiked": false,
+          "listOfRefImg": [
+            "../resources/Imgs/gmap.png",
+            "../resources/Imgs/gmap.png"
+          ],
+          "placeName": "Marina Bay Sands",
+          "placeAddress": "10 Bayfront Ave, S018956",
+          "listComment": [
+            {
+              "username": "anhldt",
+              "commentedAgo": "45 minutes",
+              "comment": "Nullam ut tincidunt nunc. Petus lacus, commodo eget justo ut, rutrum varius nunc."
+            },
+            {
+              "username": "anhldt2",
+              "commentedAgo": "2 hours",
+              "comment": "ABCD EFgjjklajfe ."
+            },
+            {
+              "username": "anhldt3",
+              "commentedAgo": "3 hours",
+              "comment": "Petus lacus, commodo!!s nunc."
+            },
+            {
+              "username": "manht1",
+              "commentedAgo": "10 hours",
+              "comment": "IA__@NA"
+            },
+            {
+              "username": "manht2",
+              "commentedAgo": "1 days",
+              "comment": "ullam ut tinc."
+            }
+          ],
+          "going": [
+            "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt"
+          ],
+          "likes": ["anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt", "anhldt" ]
+        }
+      ],
+      "going": [],
+      "past": []
+    }
+  ]
+}

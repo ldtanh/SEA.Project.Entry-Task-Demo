@@ -1,0 +1,69 @@
+.footerStyle {
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 60px;
+    width: 100%
+}
+
+.phantomStyle {
+    display: block;
+    height: 64px;
+    width: 100px;
+}
+
+.loginForm {
+    height: 150%;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: black;
+}
+
+.background {
+    background: url('../../resources/Imgs/Street-Dance-01.jpg');
+    position: relative;
+    font-family: sans-serif;
+}
+
+.layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(133, 96, 169, 0.7) no-repeat center;
+    background-size: cover;
+}
+
+.mainLoginForm {
+    text-align: center;
+    position: relative;
+}
+
+.subtitle {
+    font-size: 15px;
+    color: #D5EF7F;
+    padding-top: 70px;
+}
+
+.title {
+    font-size: 25px;
+    color: #D5EF7F;
+}
+
+.logo {
+    padding: 50px 0;
+    width: 50px;
+}
+
+.loginButton {
+    width: 100%;
+    height: 100%;
+    background-color: #D5EF7F;
+    border-width: 0;
+}
